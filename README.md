@@ -78,17 +78,6 @@ Example:
 
 ---
 
-## Bonus Features (Optional)
-
-If the mandatory part is completed perfectly, bonus features can include:
-
-* Displaying the move counter directly in the game window.
-* Animating sprites.
-* Adding enemies that move or patrol.
-* Adding sound or other aesthetic improvements.
-
----
-
 ## How to Run
 
 ```bash
