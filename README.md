@@ -1,12 +1,12 @@
-# so\_long
+# 🎮 so\_long
 
-## Project Overview
+## 📘 Project Overview
 
 **so\_long** is a simple 2D game project where the player navigates through a map, collects all the collectibles, and reaches the exit. The game is built using the **MiniLibX** graphics library, and focuses on fundamental programming concepts like file parsing, game loops, rendering, and memory management.
 
 ---
 
-## What I Learned
+## 🧠 What I Learned
 
 This project taught me a lot about how 2D games work under the hood. Some of the key things I learned include:
 
@@ -18,7 +18,7 @@ This project taught me a lot about how 2D games work under the hood. Some of the
 
 ---
 
-## Game Rules (Mandatory Requirements)
+## 🎮 Game Rules (Mandatory Requirements)
 
 * The player must be able to move in four directions (W, A, S, D or arrow keys).
 * The player cannot pass through walls (`1`).
@@ -38,7 +38,7 @@ This project taught me a lot about how 2D games work under the hood. Some of the
 
 ---
 
-## Map Format
+## 🗺️ Map Format
 
 Maps are stored in `.ber` files and consist of the following characters:
 
@@ -60,7 +60,7 @@ Example:
 
 ---
 
-## Graphics and Controls
+## 🖼️ Graphics and Controls
 
 * The game uses MiniLibX to render a 2D top-down view.
 * The screen should update correctly when the player moves.
@@ -68,7 +68,7 @@ Example:
 
 ---
 
-## Difficulties Faced
+## 😓 Difficulties Faced
 
 * Writing the **map validator** was one of the most complex parts. I had to ensure the map met all the project rules, including being rectangular and solvable.
 * Handling **input events** and keeping the game loop smooth took some time to get right.
@@ -87,7 +87,7 @@ make
 
 ---
 
-## Final Thoughts
+## ✅  Final Thoughts
 
 so\_long was a great introduction to game development basics. I now have a better understanding of rendering, user input, pathfinding, and working with external libraries like MiniLibX. It was challenging, especially at first, but incredibly rewarding to see the game come together piece by piece.
 
