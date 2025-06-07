@@ -1,6 +1,6 @@
 # 🎮 so\_long
 
-## 📘 Project Overview
+## Project Overview
 
 **so\_long** is a simple 2D game project where the player navigates through a map, collects all the collectibles, and reaches the exit. The game is built using the **MiniLibX** graphics library, and focuses on fundamental programming concepts like file parsing, game loops, rendering, and memory management.
 
